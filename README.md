@@ -19,14 +19,17 @@ Nossa metodologia calcula as credibilidades tanto com dados de expectativas prob
 
 Figura 2: Densidades e credibilidade:
 
-[img2.pdf](https://github.com/raguirreleal/credibilidade/files/12602629/img2.pdf)
+![image](https://github.com/raguirreleal/credibilidade/assets/144735714/32ac270a-afeb-49c4-ab07-ed53e3679309)
+
 
 Figura 3: Credibilidades por horizontes e tipos de dados:
 
-[img3.pdf](https://github.com/raguirreleal/credibilidade/files/12602632/img3.pdf)
+![image](https://github.com/raguirreleal/credibilidade/assets/144735714/0a7f4a40-c501-4b70-b493-07c5934425da)
+
 
 Figura 4: Credibilidades de período-alvo fixo
 
-[img4.pdf](https://github.com/raguirreleal/credibilidade/files/12602633/img4.pdf)
+![image](https://github.com/raguirreleal/credibilidade/assets/144735714/89c9a4e1-494e-410e-95dd-f46f349e5d19)
+
 
 
